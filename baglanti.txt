@@ -1,0 +1,1 @@
+server=localhost;database=kutuphaneotomasyonuu;uid=rooot;pwd=Cagdas@123

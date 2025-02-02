@@ -1,0 +1,645 @@
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.exe
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.deps.json
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.runtimeconfig.json
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.AssemblyReference.cache
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Form1.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.kitaplistesi.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Properties.Resources.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.GenerateResource.cache
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfoInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfo.cs
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphan.21233647.Up2Date
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\refint\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.genruntimeconfig.cache
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\ref\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.uyelers.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.oduncalinankitaplar.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yazarlar.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yayinevi.resources
+C:\Users\cagda\OneDrive\Masaüstü\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.admin.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.exe
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.deps.json
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.runtimeconfig.json
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Humanizer.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.AssemblyReference.cache
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.admin.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Form1.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.kitaplistesi.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.oduncalinankitaplar.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Properties.Resources.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.uyelers.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yayinevi.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yazarlar.resources
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.GenerateResource.cache
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfoInputs.cache
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfo.cs
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.CoreCompileInputs.cache
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphan.21233647.Up2Date
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\refint\kutuphaneotomasyonuu.dll
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.genruntimeconfig.cache
+C:\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\ref\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.exe
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.deps.json
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.runtimeconfig.json
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.AssemblyReference.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.admin.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Form1.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.kitaplistesi.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.oduncalinankitaplar.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Properties.Resources.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.uyelers.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yayinevi.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yazarlar.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.GenerateResource.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfoInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfo.cs
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphan.21233647.Up2Date
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\refint\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.genruntimeconfig.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\ref\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.exe
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.deps.json
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.runtimeconfig.json
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.AssemblyReference.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.admin.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Form1.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.kitaplistesi.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.oduncalinankitaplar.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Properties.Resources.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.uyelers.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yayinevi.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yazarlar.resources
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.GenerateResource.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfoInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfo.cs
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphan.21233647.Up2Date
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\refint\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.genruntimeconfig.cache
+C:\Users\cagda\OneDrive\Masaüstü\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\ref\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.exe
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.deps.json
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.runtimeconfig.json
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.AssemblyReference.cache
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.admin.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Form1.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.kitaplistesi.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.oduncalinankitaplar.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.Properties.Resources.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.uyelers.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yayinevi.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.yazarlar.resources
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.GenerateResource.cache
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfoInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.AssemblyInfo.cs
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphan.21233647.Up2Date
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\refint\kutuphaneotomasyonuu.dll
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.pdb
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\kutuphaneotomasyonuu.genruntimeconfig.cache
+C:\Users\cagda\OneDrive\Masaüstü\Yeni klasör (6)\Yeni klasör (5)\final\kutuphaneotomasyonuu\kutuphaneotomasyonuu\obj\Debug\net8.0-windows\ref\kutuphaneotomasyonuu.dll
