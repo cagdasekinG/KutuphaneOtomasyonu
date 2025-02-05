@@ -1,7 +1,7 @@
 # Kutuphane_Otomasyonu
 C# , mysql ve phpmyadmin kullanılarak geliştirildi
 
-1.Öncelikle "C" içine Final dosyası içersindeki kutuphaneotomasyonuu atıyoruz.
+1.Öncelikle "C" içine kutuphaneotomasyonuu dosyasını atıyoruz.
 
 2.mysql tipi Veritabanında “kutuphaneotomasyonuu” adında bir veritabanı oluşturduktan sonra, kutuphaneotomasyonuu veritabanı klasörünü içe aktarabilirsiniz
 
